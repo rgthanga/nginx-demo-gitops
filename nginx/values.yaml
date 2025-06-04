@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: prasadhole/nginx-demo1
+  repository: rgthanga/nginx-demo1
   tag: v1.0
   pullPolicy: IfNotPresent
 
