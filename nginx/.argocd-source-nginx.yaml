@@ -4,5 +4,5 @@ helm:
     value: rgthanga/nginx-demo1
     forcestring: true
   - name: image.tag
-    value: v1.1
+    value: v1.2
     forcestring: true
