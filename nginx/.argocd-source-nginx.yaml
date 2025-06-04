@@ -1,8 +1,8 @@
 helm:
   parameters:
   - name: image.name
-    value: prasadhole/nginx-demo1
+    value: rgthanga/nginx-demo1
     forcestring: true
   - name: image.tag
-    value: v1.1
+    value: v1.0
     forcestring: true
